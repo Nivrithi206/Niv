@@ -1,7 +1,7 @@
 # Hi, I'm Nivrithi 👋
 
 🎓 Engineering ECE Student    
-🤖 Interested in AI, Web Development, and Product Design  
+🤖 Interested in AI and Web Development
 
 ---
 
@@ -22,7 +22,7 @@ I like working on:
 - **Frontend:** React, HTML, CSS, Tailwind  
 - **Backend:** Node.js, Express  
 - **Database:** MongoDB  
-- **Tools:** Git, GitHub, VS Code  
+- **Tools:** Git, GitHub, antigravity 
 
 ---
 
